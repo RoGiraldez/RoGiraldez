@@ -1,5 +1,5 @@
 
-![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+![5](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 ### Hello World!  I'm Rocío 👋
 
 <a href="https://www.linkedin.com/in/rociongiraldez/">
@@ -23,7 +23,7 @@ Hi, I'm Rocío Giraldez, a passionate Computer Engineer from Argentina
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 
-![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+![5](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 <!--
 **RoGiraldez/RoGiraldez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
