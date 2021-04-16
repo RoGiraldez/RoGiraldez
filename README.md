@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello World!  I'm Rocío 👋
 
+<a href="https://www.linkedin.com/in/rociongiraldez/">
+  <img align="left" alt="Rocio's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+![](https://visitor-badge.glitch.me/badge?page_id=RoGiraldez.RoGiraldez)
+
+<br />
 <!--
 **RoGiraldez/RoGiraldez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
