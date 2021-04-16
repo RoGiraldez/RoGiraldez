@@ -4,7 +4,9 @@
 
 <a href="https://www.linkedin.com/in/rociongiraldez/">
   <img align="left" alt="Rocio's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>  
 
+![](https://visitor-badge.glitch.me/badge?page_id=rogiraldez.rogiraldez)
 <br />
 
 Hi, I'm Rocío Giraldez, a passionate Computer Engineer from Argentina
